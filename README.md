@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am Nihar, working as a System Engineer at TCS
+- I am Nihar, working as a Data Engineer at Growexx. Previously worked at TCS.
 - I am currently pursuing M.Tech in Data Engineering from IIT Jodhpur
 - Interested in knowing more about Data and ETL
 - Interests: Listening music, travelling, playing sports.
